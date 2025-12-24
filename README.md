@@ -33,3 +33,5 @@ Name,income,salary,result
 "Jimbo James",43.3,NaN,207.84
 "Nimbo Names",50.3,NaN,226.35
 "Party Sylvester",80.9,NaN,355.96
+
+*Note: Attached is a Python file and CSV if you want to try it for yourselves*
