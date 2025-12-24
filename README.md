@@ -11,7 +11,7 @@ Name,income,tax_rate,total
 "Jimbo James",43.3,0.2,533
 "Nimbo Names",50.3,0.5,700
 "Party Sylvester",80.9,0.6,900
-You do not know the number of columns, headings, data etc.. before hand.
+You do not know the number of columns, headings, data, etc., beforehand.
 
 Write a script called script9.py which takes in an unlimited number of parameters.
 
@@ -34,4 +34,4 @@ Name,income,salary,result
 "Nimbo Names",50.3,NaN,226.35
 "Party Sylvester",80.9,NaN,355.96
 
-*Note: Attached is a Python file and CSV if you want to try it for yourselves*
+**Note: Attached is a Python file and CSV if you want to try it for yourselves**
